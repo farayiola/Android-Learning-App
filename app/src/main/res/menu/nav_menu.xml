@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+<item android:title="storyapp">
+    <menu>
+        <item
+            android:id="@+id/random"
+            android:icon="@drawable/ic_baseline_repeat_24"
+            android:title="Random story"></item>
+
+    </menu>
+</item>
+
+    <item android:title="more">
+    <menu>
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_baseline_call_24"
+            android:title="Contact us"></item>
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_baseline_account_circle_24"
+            android:title="About us"></item>
+    </menu>
+    </item>
+</menu>
