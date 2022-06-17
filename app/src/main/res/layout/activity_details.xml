@@ -25,16 +25,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="250dp"
                 android:scaleType="fitXY"
-                app:srcCompat="@drawable/img" />
+                app:srcCompat="@drawable/img"
+                android:contentDescription="@string/todo" />
 
             <TextView
                 android:id="@+id/storyDetails"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:paddingStart="8dp"
                 android:gravity="fill_vertical"
                 android:fontFamily="sans-serif"
-                android:text="TextView"
+                android:text="@string/textview33"
                 android:textColor="#0E0E0E"
                 android:textSize="24sp"
                 android:textStyle="normal" />

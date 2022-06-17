@@ -15,4 +15,6 @@
     <string name="our_mail"> afolabiabolaji2015@gmail.com</string>
     <string name="get_started">Get Started</string>
     <string name="skip">Skip</string>
+    <string name="textview33">TextView</string>
+    <string name="todo">TODO</string>
 </resources>
