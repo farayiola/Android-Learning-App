@@ -1,13 +1,12 @@
 package com.example.storyApp
 
 import android.content.Intent
-import android.icu.text.Transliterator
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.ViewPager2
@@ -28,20 +27,20 @@ class Onboarding : AppCompatActivity() {
         onboardingItemsAdapter = OnboardingItemsAdapter(
             listOf(
                 OnboardingItem(
-                 onboardingImage =   R.drawable.saw,
-                    title = "Welcome To Story App",
-                    description = "Telling you a random stories"
+                 onboardingImage =   R.drawable.roll1,
+                    title = "Welcome To Android Learning App",
+                    description = "let talk about android and few things related to it"
 
                 ),
                 OnboardingItem(
-                    onboardingImage = R.drawable.happy_book,
-                    title = "Are you Happy Reading?",
-                    description = "always be happy whenever it's reading time"
+                    onboardingImage = R.drawable.roll2,
+                    title = "Era Of Digitisation",
+                    description = "do you know the world has entered an era where knowledge about tech are been required in most organization?"
                 ),
                 OnboardingItem(
-                    onboardingImage = R.drawable.reading,
-                    title = "Happy Reading",
-                    description = "it short stories but it gonna make you laugh and worth your time"
+                    onboardingImage = R.drawable.rolly,
+                    title = "Develop Yourself",
+                    description = "every knowledge you acquire are like a seed which needs to grow more by practicing and investing in yourself"
                 )
             )
         )

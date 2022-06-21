@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/splash2"
+    android:background="@drawable/my_splash"
     tools:context=".Splash">
 
     <ProgressBar
@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="cursive"
-        android:text="StoryApp"
+        android:text="Android learning app"
         android:textAlignment="center"
         android:textColor="#00BCD4"
         android:textSize="45sp"

@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="250dp"
-    android:background="@drawable/img">
+    android:background="@drawable/header">
 
     <TextView
         android:id="@+id/textView"
@@ -13,7 +13,7 @@
         android:text="@string/app_name"
         android:textAlignment="center"
         android:textColor="#430E0A"
-        android:textSize="50sp"
+        android:textSize="40sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string-array name="storyImages">
-        <item>https://picsum.photos/id/1010/367/267</item>
-        <item>https://picsum.photos/id/1026/367/267</item>
-        <item>https://picsum.photos/id/1058/367/267</item>
-        <item>https://picsum.photos/id/1077/367/267</item>
-        <item>https://picsum.photos/id/1082/367/267</item>
-        <item>https://picsum.photos/id/1080/367/267</item>
-        <item>https://picsum.photos/id/175/367/267</item>
-        <item>https://picsum.photos/id/219/367/267</item>
-        <item>https://picsum.photos/id/250/367/267</item>
-        <item>https://picsum.photos/id/364/367/267</item>
-        <item>https://picsum.photos/id/431/367/267</item>
-        <item>https://picsum.photos/id/452/367/267</item>
+        <item>https://media.geeksforgeeks.org/wp-content/uploads/20190912123353/architecture.jpg</item>
+        <item tools:ignore="TypographyDashes">https://media.geeksforgeeks.org/wp-content/uploads/20210311140236/untitled125x3-245x300.png</item>
+        <item>https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png</item>
+        <item>https://miro.medium.com/max/960/1*oNM0JVqivoi3lVPF6ygp9Q.png</item>
+        <item>https://cdn.vox-cdn.com/thumbor/E5DWi80rhjNBn1zQwrEjX0dnkLY=/0x0:640x427/920x613/filters:focal(0x0:640x427):format(webp)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg</item>
+        <item>https://static.javatpoint.com/core/images/java-vs-kotlin.png</item>
+        <item>https://www.section.io/engineering-education/all-about-fragments-in-android-applications/hero.png</item>
+        <item>https://miro.medium.com/max/1090/1*DpuiuK2fsg5Xs3VPIDEOgw.png</item>
+        <item>https://www.elprocus.com/wp-content/uploads/Featured-image-2.png</item>
     </string-array>
+
 </resources>

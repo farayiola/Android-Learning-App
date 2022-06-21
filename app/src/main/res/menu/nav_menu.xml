@@ -5,12 +5,12 @@
         android:icon="@drawable/ic_baseline_home_24"
         android:title="Home" />
 
-<item android:title="storyapp">
+<item android:title="Android learning">
     <menu>
         <item
             android:id="@+id/random"
             android:icon="@drawable/ic_baseline_repeat_24"
-            android:title="Random story"></item>
+            android:title="Random Topic"></item>
 
     </menu>
 </item>
